@@ -14,7 +14,7 @@ export const allRecipes = {
             "updated_at": "14 minutes ago"
         }, 
         {
-            "recipe_id": 1,
+            "recipe_id": 2,
             "recipe_name": "Fish Finger Sandwich",
             "difficulty": "Easy",
             "time": 25,
@@ -27,7 +27,7 @@ export const allRecipes = {
             "updated_at": "14 minutes ago"
         }, 
         {
-            "recipe_id": 1,
+            "recipe_id": 3,
             "recipe_name": "Fish Finger Sandwich",
             "difficulty": "Easy",
             "time": 25,
