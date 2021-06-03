@@ -1,6 +1,6 @@
 import './styles/main.scss'
 
-import Home from './components/homepage/Home'
+import Home from './components/Home'
 
 const App = () => {
 
