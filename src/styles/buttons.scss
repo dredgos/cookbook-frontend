@@ -1,0 +1,19 @@
+.button {
+    padding: 1rem 2rem;
+    margin: 0 0.3rem 0.3rem 0;
+    border-radius: 0.25rem;
+    text-align: center;
+    text-decoration: none;
+    
+    &:hover {
+        transition: all 150ms linear;
+    
+        opacity: .85;
+      }
+
+    &__primary {
+        background: $blue;
+        color: $dark-gray;
+        border: solid 2px $off-white;
+    }
+}

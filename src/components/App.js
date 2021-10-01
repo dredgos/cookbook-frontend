@@ -1,13 +1,15 @@
 import '../styles/main.scss'
-import Navigation from './Navigation'
-import Home from './Home'
+import LandingPage from './Landing/LandingPage';
+
+
+
 
 const App = () => {
 
     return (
       <>
-        <Home />
-        <Navigation />
+        <LandingPage />
+
       </>
     )   
 }
